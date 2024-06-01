@@ -17,7 +17,7 @@ A tool for updating databases hosted on your local machine. This project is part
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/LocalDatabaseUpdater.git
+    git clone https://github.com/janindu-gaurinda/LocalDatabaseUpdater.git
     ```
 2. Navigate to the project directory:
     ```bash
